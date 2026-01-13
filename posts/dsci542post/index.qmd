@@ -1,8 +1,8 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
-date: "2026-01-12"
-categories: [news, code, analysis]
+author: "Julia Zhang"
+date: "2026-01-16"
+categories: [analysis]
 image: "image.jpg"
 ---
 

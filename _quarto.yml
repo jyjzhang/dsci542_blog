@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "dsci542_blog"
+  title: "DSCI 542 Blog"
   navbar:
     right:
       - about.qmd

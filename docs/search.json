@@ -4,18 +4,11 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Hi! I’m Julia, a Master of Data student at the University of British Columbia."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
+    "objectID": "posts/dsci542post/index.html",
+    "href": "posts/dsci542post/index.html",
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
@@ -25,6 +18,6 @@
     "href": "index.html",
     "title": "dsci542_blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 9, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 16, 2026\n\n\nJulia Zhang\n\n\n\n\n\nNo matching items"
   }
 ]
